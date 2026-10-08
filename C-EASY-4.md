@@ -262,7 +262,8 @@ GameStatus win(char cells[9][9],Game game){      //判断游戏输赢
 ### 3.为什么是在棋盘下面？  
 - 在棋盘下面方便打印棋盘（棋盘位置不需要位移）和方便通过棋盘位置确定打印信息的位置，同时也方便看信息。  
 #### 最后的最后，展示一下运行结果。  
-![alt text](image-2.png)  
+<img width="1028" height="711" alt="屏幕截图 2026-10-08 222201" src="https://github.com/user-attachments/assets/204c0a59-befd-4628-a16f-65c6fc10de82" />
+ 
 --- 
 PS：只能说这又是一个令人头大的题目，依旧开始懵懵懂懂，做到后面焕然大悟(觉得自己很蠢)。我觉得主要难点有以下几点：  
 1.最大的就是那个Windows Console API读取鼠标左键光标位置，看半天才看懂。  
